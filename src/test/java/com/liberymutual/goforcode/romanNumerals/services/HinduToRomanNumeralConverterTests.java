@@ -62,17 +62,17 @@ public class HinduToRomanNumeralConverterTests {
              { 200, "CC" },
              { 300, "CCC" },
              { 400, "CD" },
-            // { 500, "D" },
-            // { 549, "DXLIX" },
-            // { 600, "DC" },
-            // { 700, "DCC" },
-            // { 800, "DCCC" },
-            // { 900, "CM" },
-            // { 1000, "M" },
-            // { 2000, "MM" },
-            // { 2222, "MMCCXXII" },
-            // { 2345, "MMCCCXLV" },
-            // { 3000, "MMM" }, // This is exceeds expectations
+             { 500, "D" },
+             { 549, "DXLIX" },
+             { 600, "DC" },
+             { 700, "DCC" },
+             { 800, "DCCC" },
+             { 900, "CM" },
+             { 1000, "M" },
+             { 2000, "MM" },
+             { 2222, "MMCCXXII" },
+             { 2345, "MMCCCXLV" },
+             { 3000, "MMM" }, // This is exceeds expectations
         });
     }
 
